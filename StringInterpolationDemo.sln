@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolationDemo", "StringInterpolationDemo\StringInterpolationDemo.csproj", "{16680158-3B30-466B-BE8A-90198774DEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolationDemo.Test", "StringInterpolationDemo.Test\StringInterpolationDemo.Test.csproj", "{1893D982-7011-47AE-8935-A5D127B715E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16680158-3B30-466B-BE8A-90198774DEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16680158-3B30-466B-BE8A-90198774DEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16680158-3B30-466B-BE8A-90198774DEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16680158-3B30-466B-BE8A-90198774DEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1893D982-7011-47AE-8935-A5D127B715E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1893D982-7011-47AE-8935-A5D127B715E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1893D982-7011-47AE-8935-A5D127B715E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1893D982-7011-47AE-8935-A5D127B715E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
